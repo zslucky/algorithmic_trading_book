@@ -1,6 +1,6 @@
 # Algorithmic Trading Book
 
-2 books and related source codes for algorithmic trading.
+2 books and related source codes for algorithmic trading:
 
-- [Successful Algorithmic Trading](sat-ebook-20150618.pdf)
-- [Advanced Algorithmic Trading](aat-ebook-20170711.pdf)
+- Successful Algorithmic Trading: [PDF](sat-ebook-20150618.pdf), [code](/sat_source)
+- Advanced Algorithmic Trading: [PDF](aat-ebook-20170711.pdf), [code](/aat_source)

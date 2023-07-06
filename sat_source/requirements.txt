@@ -11,6 +11,6 @@ python-dateutil==2.4.2
 pytz==2015.4
 requests==2.31.0
 scikit-learn==0.16.1
-scipy==0.15.1
+scipy==1.10.0
 six==1.9.0
 statsmodels==0.6.1
